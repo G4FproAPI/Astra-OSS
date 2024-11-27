@@ -1,0 +1,258 @@
+{
+    "gpt-4o": {
+        "multiplier": 3,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "o1-mini": {
+        "multiplier": 10,
+        "restrictions": {
+            "free": false,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-4": {
+        "multiplier": 20,
+        "restrictions": {
+            "free": false,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-4-turbo": {
+        "multiplier": 15,
+        "restrictions": {
+            "free": false,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-3.5-turbo": {
+        "multiplier": 0.9,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-4o-mini": {
+        "multiplier": 0.5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "llama-3.2-1b-instruct": {
+        "multiplier": 0.1,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "llama-3.2-3b-instruct": {
+        "multiplier": 0.2,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "tts-1-hd": {
+        "multiplier": 5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "llama-3.1-euryale-70b": {
+        "multiplier": 1.5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gemini-exp-1114": {
+        "multiplier": 5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "claude-3.5-haiku": {
+        "multiplier": 5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "claude-3.5-haiku-20241022-unfiltered": {
+        "multiplier": 5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "jamba-1.5-mini": {
+        "multiplier": 0.5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "qwen-2.5-coder-32b-instruct": {
+        "multiplier": 1.5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "unslopnemo-12b": {
+        "multiplier": 1.5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "command-r": {
+        "multiplier": 2,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-4o-mini-2024-07-18": {
+        "multiplier": 0.5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-3.5-turbo-instruct": {
+        "multiplier": 0.9,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-3.5-turbo-0125": {
+        "multiplier": 0.9,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-4-0125-preview": {
+        "multiplier": 20,
+        "restrictions": {
+            "free": false,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "chatgpt-4o-latest": {
+        "multiplier": 3,
+        "restrictions": {
+            "free": false,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-4-turbo-preview": {
+        "multiplier": 15,
+        "restrictions": {
+            "free": false,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-4o-2024-11-20": {
+        "multiplier": 3,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-4o-2024-08-06": {
+        "multiplier": 3,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "gpt-4o-2024-05-13": {
+        "multiplier": 3,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "dove-1-preview": {
+        "multiplier": 10,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "claude-3-5-sonnet-20240620": {
+        "multiplier": 10,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "claude-3-haiku-20240307": {
+        "multiplier": 5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "claude-3-opus-20240229": {
+        "multiplier": 30,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "claude-3-sonnet-20240229": {
+        "multiplier": 5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    },
+    "claude-3-5-haiku-20241022": {
+        "multiplier": 5,
+        "restrictions": {
+            "free": true,
+            "premium": true,
+            "enterprise": true
+        }
+    }
+}
